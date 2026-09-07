@@ -56,6 +56,7 @@ while True:
         break   # 成功转换就跳出循环
     except ValueError:
         print("输入无效，请重新输入数字")
+        
 print(f"你 {age} 岁，明年 {age + 1} 岁\n")
 
     # ========== 5. 实战：文件读取防错 ==========
