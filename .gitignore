@@ -1,0 +1,12 @@
+# Python 自动生成的缓存，不需要进版本库
+__pycache__/
+*.py[cod]
+
+# 虚拟环境（以后用 uv 建的 .venv 会被自动忽略）
+.venv/
+venv/
+
+# 编辑器 / 系统临时文件
+*.log
+Thumbs.db
+desktop.ini
